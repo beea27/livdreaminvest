@@ -645,8 +645,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-	width: 50%;
-	height: 50%;
+	height: 49px;
 	margin-bottom: 1px;
 	-webkit-backface-visibility: hidden;
 }
@@ -654,6 +653,7 @@ input[type='checkbox'] {
 .navbar-custom .navbar-brand.logo-text {
 	font: 700 2.375rem/1.5rem "Montserrat", sans-serif;
 	color: #fff;
+	letter-spacing: -0.5px;
 	text-decoration: none;
 }
 
@@ -798,7 +798,7 @@ input[type='checkbox'] {
 .slider-1 {
 	padding-top: 6.875rem;
 	padding-bottom: 6.375rem;
-	background-color: #262431;
+	background-color: #2f2c3d;
 }
 
 .slider-1 .slider-container {
@@ -836,8 +836,8 @@ input[type='checkbox'] {
 }
 
 .slider-1 .card-image {
-	width: 6rem;
-	height: 6rem;
+	width: 8rem;
+	height: 8rem;
 	margin-right: auto;
 	margin-bottom: 0.25rem;
 	margin-left: auto;
