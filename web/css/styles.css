@@ -1112,6 +1112,7 @@ input[type='checkbox'] {
 	padding-top: 8rem;
 	padding-bottom: 3.5rem;
 	background-color: #262431;
+	align-items: center;
 }
 
 .basic-2 img {
